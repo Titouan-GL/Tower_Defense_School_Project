@@ -19,3 +19,5 @@ you can place walls or soldiers in order to protect you from ennemies, these do 
 
 ## additionnal info
 every graphic file is included in sprites but the latest version of the python file was lost so they are not all included
+
+video link here : https://www.youtube.com/watch?v=DXanHMmwjBo
